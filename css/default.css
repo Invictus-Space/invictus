@@ -8373,7 +8373,6 @@ footer h5 {
   
   min-height: 100vh;
   padding: 100px 0;
-  font-family: Jost;
 }
 
 .design {
@@ -8393,9 +8392,8 @@ footer h5 {
 
 .timeline-content {
   padding: 20px;
-  background: #1f1f1f;
-  -webkit-box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #242424;
-          box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #242424;
+  background:grey;
+  
   border-radius: 5px;
   color: white;
   padding: 1.75rem;
