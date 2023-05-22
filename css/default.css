@@ -8414,8 +8414,8 @@ footer h5 {
 	padding: 15px;
 	font-size: 1rem;
 	white-space: normal;
-	color: black;
-	background: white;
+	color: white;
+	background: black;
   }
   
   .timeline ol li div::before {
